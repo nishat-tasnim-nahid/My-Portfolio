@@ -1,0 +1,34 @@
+[
+    {
+        "key": 1,
+        "name": "Kids Health Care",
+        "img1": "https://files.fm/thumb_show.php?i=n9k77d7vz",
+        "img2": "https://files.fm/thumb_show.php?i=wmntm953s",
+        "img3": "https://files.fm/thumb_show.php?i=bw6gcv2z2",
+        "description": "1..For taking service users have to login or register. 2..Take services for kids. 3..Know about your doctor’s details"
+    },
+    {
+        "key": 2,
+        "name": "Learning Statistics",
+        "img1": "https://files.fm/thumb_show.php?i=6t7vfy6yf",
+        "img2": "https://files.fm/thumb_show.php?i=gp9krmtry",
+        "img3": "https://files.fm/thumb_show.php?i=vyceah7xs",
+        "description": "1..Information about the course schedule. 2..Teachers info. 3..See available courses & other info have to login or register"
+    },
+    {
+        "key": 3,
+        "name": "Hexa in One Delivery Services",
+        "img1": "https://files.fm/thumb_show.php?i=apdm5e8e4",
+        "img2": "https://files.fm/thumb_show.php?i=9qvwrwm5e",
+        "img3": "https://files.fm/thumb_show.php?i=k9j2jfqh2",
+        "description": "1..Courier service for 24/7. 2..For users authentication system is available. 3..Track task status. 4..User has the ability to edit their profile. 5..Users details will be saved in the database"
+    },
+    {
+        "key": 4,
+        "name": "BABY TOY",
+        "img1": "https://files.fm/thumb_show.php?i=94wkzhw7t",
+        "img2": "https://files.fm/thumb_show.php?i=rbr3tnz67",
+        "img3": "https://files.fm/thumb_show.php?i=watqpg94v",
+        "description": "1..Place order & check order history which adds database. 2..Admin controls to create the new admin and manage all orders. 3..Authentication system available for user and admin both. 4..Organized dashboard"
+    }
+]

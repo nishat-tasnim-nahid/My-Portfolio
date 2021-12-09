@@ -79,7 +79,7 @@ export default function Navber() {
                                 <MenuIcon />
                             </IconButton>
                             <Typography className={navTitle} variant="h6" component="div" sx={{ flexGrow: 1 }}>
-                                News
+                                My Portfolio
                             </Typography>
                             <Box className={navItemContainer}>
                                 <Link className={navItem} to="/"><Button color="inherit">HOME</Button></Link>
