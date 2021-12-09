@@ -33,6 +33,12 @@ const Projects = () => {
                             width: '300px'
                         }} src={projectSS1} alt="" />
                     <Typography variant="h5">BABY TOY</Typography>
+                    <a
+                        style={{ padding: '6px', color: '#FFC300' }} href="https://assignment12-d167b.web.app/">Live-site</a>
+                    <a
+                        style={{ padding: '6px', color: '#B4278C' }} href="https://github.com/nishat-tasnim-nahid/niche-website-server-site12">Server-site</a>
+                    <a
+                        style={{ padding: '6px', color: '#2A7A2C' }} href="https://github.com/nishat-tasnim-nahid/niche-website-assignment12">Client-site</a> <br />
                     <Link to='projectsDetails' style={{ textDecoration: 'none' }}>
                         <Button
                             variant="contained"
@@ -49,6 +55,10 @@ const Projects = () => {
                         width: '300px'
                     }} src={projectSS2} alt="" />
                     <Typography variant="h5">HEALTH CARE</Typography>
+                    <a
+                        style={{ padding: '6px', color: '#FFC300' }} href="https://cranky-bose-365ded.netlify.app/home">Live-site</a>
+                    <a
+                        style={{ padding: '6px', color: '#2A7A2C' }} href="https://github.com/nishat-tasnim-nahid/kidsHelthCare-10">Client-site</a> <br />
                     <Link to='projectsDetails' style={{ textDecoration: 'none' }}>
                         <Button
                             variant="contained"
@@ -65,6 +75,10 @@ const Projects = () => {
                         width: '300px'
                     }} src={projectSS3} alt="" />
                     <Typography variant="h5">LEARNING STATISTICS</Typography>
+                    <a
+                        style={{ padding: '6px', color: '#FFC300' }} href="https://inspiring-bose-9c0465.netlify.app/home">Live-site</a>
+                    <a
+                        style={{ padding: '6px', color: '#2A7A2C' }} href="https://github.com/nishat-tasnim-nahid/review-website-react">Client-site</a> <br />
                     <Link to='projectsDetails' style={{ textDecoration: 'none' }}>
                         <Button
                             variant="contained"
@@ -82,6 +96,12 @@ const Projects = () => {
                         width: '300px'
                     }} src={projectSS4} alt="" />
                     <Typography variant="h5">HEXA IN ONE</Typography>
+                    <a
+                        style={{ padding: '6px', color: '#FFC300' }} href="https://hexa-in-one-assignment11.web.app/home">Live-site</a>
+                    <a
+                        style={{ padding: '6px', color: '#B4278C' }} href="https://github.com/nishat-tasnim-nahid/delivary-website-server-site11">Server-site</a>
+                    <a
+                        style={{ padding: '6px', color: '#2A7A2C' }} href="https://github.com/nishat-tasnim-nahid/delivary-website-client-site11">Client-site</a> <br />
                     <Link to='projectsDetails' style={{ textDecoration: 'none' }}>
                         <Button
                             variant="contained"

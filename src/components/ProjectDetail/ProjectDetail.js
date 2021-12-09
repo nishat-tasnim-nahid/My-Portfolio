@@ -41,6 +41,7 @@ const ProjectDetail = ({ projectDetail }) => {
                     width: '300px',
                     margin: '5px'
                 }} src={img3} alt="" />
+                
             <p>{description}</p>
         </div>
     );
